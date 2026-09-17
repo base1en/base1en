@@ -2,16 +2,16 @@ Paul James – Systems Engineering / AI-Assisted Engineering
 
 Systems-focused engineer with 29 years' experience in technical investigation, diagnostics, systems integration and deployment.
 
-Open-source / architectural contribution
-OpenCode – architectural analysis, design proposals and testing.
+## Open-source / architectural contribution
 
-[Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63)
+**OpenCode Home Assistant integration** – architectural analysis, design proposals and testing.
 
-[Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113)
+- [Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63)
+- [Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113)
 
-Projects
+## Projects
+
 Coming soon…
-
 <!--
 **base1en/base1en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

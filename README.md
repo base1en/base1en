@@ -6,8 +6,8 @@ Systems-focused engineer with 29 years' experience in technical investigation, d
 
 **OpenCode Home Assistant integration** – architectural analysis, design proposals and testing.
 
-- [Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63)
-- [Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113)
+- [Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63) – _implemented upstream by project maintainer_
+- [Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113) – _implemented upstream by project maintainer_
 
 ## Projects
 

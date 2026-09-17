@@ -1,4 +1,16 @@
-## Hi there 👋
+Paul James – Systems Engineering / AI-Assisted Engineering
+
+Systems-focused engineer with 29 years' experience in technical investigation, diagnostics, systems integration and deployment.
+
+Open-source / architectural contribution
+OpenCode – architectural analysis, design proposals and testing.
+
+[Issue #63 – Context History and Local Custom Instructions Proposal](https://github.com/magnusoverli/opencode/issues/63)
+
+[Issue #113 – Clean Quit Proposal](https://github.com/magnusoverli/opencode/issues/113)
+
+Projects
+Coming soon…
 
 <!--
 **base1en/base1en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

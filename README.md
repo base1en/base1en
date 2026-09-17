@@ -5,9 +5,9 @@ Systems-focused engineer with 29 years' experience in technical investigation, d
 Open-source / architectural contribution
 OpenCode – architectural analysis, design proposals and testing.
 
-[Issue #63 – Context History and Local Custom Instructions Proposal](https://github.com/magnusoverli/opencode/issues/63)
+[Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63)
 
-[Issue #113 – Clean Quit Proposal](https://github.com/magnusoverli/opencode/issues/113)
+[Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113)
 
 Projects
 Coming soon…

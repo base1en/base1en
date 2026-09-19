@@ -1,6 +1,6 @@
 Paul James – Systems Engineering / AI-Assisted Engineering
 
-Systems-focused engineer with 29 years' experience in the automotive field; including technical investigation, diagnostics, systems integration and deployment.
+Systems-focused engineer with 29 years' experience in the automotive industry; including technical investigation, diagnostics, systems integration and deployment.
 
 ## Open-source / architectural contribution
 

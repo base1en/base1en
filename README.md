@@ -12,7 +12,15 @@ Systems-focused engineer with 29 years' experience in technical investigation, d
 
 ## Projects
 
-Coming soon…
+## Projects
+
+**[HA Overview Page Tweak](https://github.com/base1en/ha-overview-page-tweak)** – Home Assistant frontend module that customises the built-in Home Dashboard header.
+
+* Native header augmentation: replaces "Overview" with "Home" and adds configurable dashboard shortcuts
+* Reverse-engineered and tested against the live Home Assistant frontend, including shadow-root DOM traversal and re-render handling
+* Uses the supported `frontend.extra_module_url` loading mechanism, with no HACS dependencies
+* Working beta, currently unversioned
+
 <!--
 **base1en/base1en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,8 @@ Systems-focused engineer with 29 years' experience in technical investigation, d
 
 **OpenCode Home Assistant integration** – architectural analysis, design proposals and testing.
 
-- [Issue #63 – Persistent Context & Local Instructions Design Proposal](https://github.com/magnusoverli/opencode/issues/63) – _implemented upstream by project maintainer_
+- [Issue #63 – Persistent Context & Local Instructions](https://github.com/magnusoverli/opencode/issues/63#issuecomment-5068219835) – proposed in comments on a memory-plugin feature request; design _implemented upstream_ by the project maintainer (shipped as v2.3.8b0), credited by name in the changelog
+- [Issue #73 – Context Reporting Hardening](https://github.com/magnusoverli/opencode/issues/73) – follow-on testing of the above that surfaced silent note-truncation, a broken decision-search match, and other defects; findings _implemented upstream_ in a dedicated hardening release (v2.3.8b1)
 - [Issue #113 – Graceful OpenCode Exit (“Clean Quit”) Design Proposal](https://github.com/magnusoverli/opencode/issues/113) – _implemented upstream by project maintainer_
 
 ## Projects

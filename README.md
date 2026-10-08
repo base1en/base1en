@@ -12,7 +12,7 @@ Systems-focused engineer with 29 years' experience in the automotive industry, i
 
 ## Projects
 
-**[HA Overview Page Tweak](https://github.com/base1en/ha-overview-page-tweak)** – Home Assistant frontend module that customises the built-in Home Dashboard header.
+**[Home Assistant Home Dashboard Header Customiser](https://github.com/base1en/Home-Assistant-Home-Dashboard-Header-Customiser)** – Home Assistant frontend module that customises the built-in Home Dashboard header.
 
 * Native header augmentation: replaces "Overview" with "Home" and adds configurable dashboard shortcuts
 * AI assisted exploration, reverse-engineering and testing against a live Home Assistant frontend, including shadow-root DOM traversal and re-render handling
